@@ -62,3 +62,9 @@ def chat(body: ChatRequest, request: Request) -> ChatResponse:
         resp.end_of_conversation,
     )
     return resp
+
+@app.get("/")
+def root():
+    return {
+        "message": "SHL Conversational Recommender API is running"
+    }
