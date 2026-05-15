@@ -376,6 +376,15 @@ Potential future enhancements:
 
 ---
 
+## Live Deployment
+
+API Base URL:
+https://shl-conversational-recommender.onrender.com
+
+Swagger Docs:
+https://shl-conversational-recommender.onrender.com/docs
+
+---
 # Author
 
 Paras Dhajal
