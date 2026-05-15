@@ -1,0 +1,3018 @@
+[
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_type": "K",
+    "description": ".NET Framework 4.5 Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "test_type": "K",
+    "description": ".NET MVC (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "test_type": "K",
+    "description": ".NET MVVM (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "test_type": "K",
+    "description": ".NET WCF (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "test_type": "K",
+    "description": ".NET WPF (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "test_type": "K",
+    "description": ".NET XAML (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "test_type": "D",
+    "description": "360 Digital Report Test types: D (Development & 360). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "test_type": "D/P",
+    "description": "360° Multi-Rater Feedback System (MFS) Test types: D (Development & 360), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_type": "K",
+    "description": "Accounts Payable (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_type": "S",
+    "description": "Accounts Payable Simulation (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": "K",
+    "description": "Accounts Receivable (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_type": "S",
+    "description": "Accounts Receivable Simulation (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "test_type": "K",
+    "description": "ADO.NET (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_type": "K",
+    "description": "Adobe Experience Manager (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": "K",
+    "description": "Adobe Photoshop CC Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_type": "K",
+    "description": "Aeronautical Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "test_type": "K",
+    "description": "Aerospace Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "test_type": "K",
+    "description": "Agile Software Development Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "test_type": "K",
+    "description": "Agile Testing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "test_type": "P",
+    "description": "AI Skills Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": "K",
+    "description": "Amazon Web Services (AWS) Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "test_type": "K",
+    "description": "Android Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "test_type": "K",
+    "description": "Angular 6 (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "test_type": "K",
+    "description": "AngularJS (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "test_type": "K",
+    "description": "Apache Hadoop (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "test_type": "K",
+    "description": "Apache Hadoop Extensions (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "test_type": "K",
+    "description": "Apache HBase (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "test_type": "K",
+    "description": "Apache Hive (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "test_type": "K",
+    "description": "Apache Kafka (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "test_type": "K",
+    "description": "Apache Pig (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "test_type": "K",
+    "description": "Apache Spark (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "test_type": "K",
+    "description": "ASP .NET with C# (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "test_type": "K",
+    "description": "ASP.NET 4.5 Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "test_type": "E",
+    "description": "Assessment and Development Center Exercises Test types: E (Assessment Exercises). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "test_type": "S",
+    "description": "Automata (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "test_type": "S",
+    "description": "Automata - Fix (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "test_type": "S",
+    "description": "Automata - SQL (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "test_type": "S",
+    "description": "Automata Data Science (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "test_type": "S",
+    "description": "Automata Data Science Pro (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "test_type": "S",
+    "description": "Automata Front End Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "test_type": "S",
+    "description": "Automata Pro (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "test_type": "S",
+    "description": "Automata Selenium Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "test_type": "K",
+    "description": "Automation Anywhere RPA Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "test_type": "K",
+    "description": "Automotive Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "test_type": "K",
+    "description": "Basic Biology (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_type": "S/K",
+    "description": "Basic Computer Literacy (Windows 10) (New) Test types: S (Simulations), K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "test_type": "K",
+    "description": "Basic Statistics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "test_type": "K",
+    "description": "Biochemistry (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "test_type": "K",
+    "description": "Biotech Lab Techniques (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "test_type": "K",
+    "description": "BizTalk (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "test_type": "K",
+    "description": "Business Communication (adaptive) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "test_type": "K",
+    "description": "Business Communications Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "test_type": "K",
+    "description": "C Programming (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "test_type": "K",
+    "description": "C# Programming (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "test_type": "K",
+    "description": "C++ Programming (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "test_type": "K",
+    "description": "Cardiology and Diabetes Management (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "test_type": "K",
+    "description": "Ceramic Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "test_type": "K",
+    "description": "Chemical Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "test_type": "K",
+    "description": "Cisco AppDynamics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "test_type": "K",
+    "description": "Civil Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "test_type": "K",
+    "description": "Cloud Computing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "test_type": "K",
+    "description": "COBOL Programming (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "test_type": "K",
+    "description": "Computer Science (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_type": "S",
+    "description": "Contact Center Call Simulation (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "test_type": "S",
+    "description": "Conversational Multichat Simulation Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K",
+    "description": "Core Java (Advanced Level) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "K",
+    "description": "Core Java (Entry Level) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "test_type": "K/S",
+    "description": "Count Out The Money Test types: K (Knowledge & Skills), S (Simulations). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "test_type": "K",
+    "description": "CSS3 (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "test_type": "K",
+    "description": "Culinary Skills (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_type": "B/S",
+    "description": "Customer Service Phone Simulation Test types: B (Biodata & Situational Judgement), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "test_type": "B/P/S",
+    "description": "Customer Service Phone Solution Test types: B (Biodata & Situational Judgement), P (Personality & Behavior), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "test_type": "K",
+    "description": "Cyber Risk (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "test_type": "S",
+    "description": "Data Entry (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_type": "K",
+    "description": "Data Entry Alphanumeric Split Screen - US Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "test_type": "K",
+    "description": "Data Entry Numeric Split Screen - US Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "test_type": "K",
+    "description": "Data Entry Ten Key Split Screen Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "test_type": "K",
+    "description": "Data Science (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "test_type": "K",
+    "description": "Data Warehousing Concepts Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": "P",
+    "description": "Dependability and Safety Instrument (DSI) Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "test_type": "K",
+    "description": "Dermatology (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "test_type": "K",
+    "description": "Desktop Support (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "test_type": "K",
+    "description": "Digital Advertising (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "test_type": "P",
+    "description": "Digital Readiness Development Report - IC Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "test_type": "P",
+    "description": "Digital Readiness Development Report - Manager Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "test_type": "K",
+    "description": "Docker (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "test_type": "K",
+    "description": "Dojo (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "test_type": "K",
+    "description": "Drupal (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "test_type": "P",
+    "description": "DSI v1.1 Interpretation Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "test_type": "K",
+    "description": "Econometrics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "test_type": "K",
+    "description": "Economics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "test_type": "K",
+    "description": "Electrical and Electronics Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "test_type": "K",
+    "description": "Electrical Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "test_type": "K",
+    "description": "Electronics & Telecommunications Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "test_type": "K",
+    "description": "Electronics and Embedded Systems Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "test_type": "K",
+    "description": "Electronics and Semiconductor Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "K",
+    "description": "English Comprehension (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "test_type": "K",
+    "description": "Enterprise Java Beans (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "test_type": "P",
+    "description": "Enterprise Leadership Report 1.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_type": "P",
+    "description": "Enterprise Leadership Report 2.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "test_type": "C/P",
+    "description": "Entry Level Cashier Solution Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_type": "P/C",
+    "description": "Entry Level Customer Serv-Retail & Contact Center Test types: P (Personality & Behavior), C (Competencies). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "test_type": "C/P",
+    "description": "Entry Level Customer Service (General) Solution Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "test_type": "C/P",
+    "description": "Entry Level Hotel Front Desk Solution Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "test_type": "C/P",
+    "description": "Entry Level Sales Solution Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "test_type": "P/C",
+    "description": "Entry Level Technical Support Solution Test types: P (Personality & Behavior), C (Competencies). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "test_type": "K",
+    "description": "ETL Testing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "test_type": "B",
+    "description": "Executive Scenarios Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "test_type": "B",
+    "description": "Executive Scenarios Narrative Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "test_type": "B",
+    "description": "Executive Scenarios Profile Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "test_type": "K",
+    "description": "ExpressJS (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "test_type": "K",
+    "description": "Filing - Names (R1) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "test_type": "K",
+    "description": "Filing - Numbers Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "description": "Financial Accounting (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "test_type": "K",
+    "description": "Financial and Banking Services (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "test_type": "K",
+    "description": "Fire Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "test_type": "K",
+    "description": "Following Instructions v1 - UK (R1) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "test_type": "K",
+    "description": "Following Instructions v1 - US (R2) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "test_type": "K",
+    "description": "Food and Beverage Services (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "test_type": "K",
+    "description": "Food Science (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "test_type": "K",
+    "description": "Front Office Management (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "test_type": "K",
+    "description": "Fundamentals of Chemistry (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "test_type": "K",
+    "description": "Fundamentals of Physics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "test_type": "K",
+    "description": "General Diseases (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "test_type": "K",
+    "description": "Geoinformatics Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "test_type": "K",
+    "description": "Geoscience Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "test_type": "K",
+    "description": "GIT (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "test_type": "C/K",
+    "description": "Global Skills Assessment Test types: C (Competencies), K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_type": "A/E/B/C/D/P",
+    "description": "Global Skills Development Report Test types: A (Ability & Aptitude), E (Assessment Exercises), B (Biodata & Situational Judgement), C (Competencies), D (Development & 360), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "test_type": "B",
+    "description": "Graduate Scenarios Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "test_type": "B",
+    "description": "Graduate Scenarios Narrative Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "test_type": "B",
+    "description": "Graduate Scenarios Profile Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "test_type": "K",
+    "description": "Hibernate (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "test_type": "K",
+    "description": "HIPAA (Security) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "test_type": "C/P",
+    "description": "HiPo Assessment Report 1.0 Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "test_type": "C/P",
+    "description": "HiPo Assessment Report 2.0 Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "test_type": "C",
+    "description": "HiPo Unlocking Potential Report 2.0 Test types: C (Competencies). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "test_type": "K",
+    "description": "Housekeeping (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "test_type": "K",
+    "description": "HTML/CSS (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "test_type": "K",
+    "description": "HTML5 (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "test_type": "K",
+    "description": "Human Resources (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "test_type": "K",
+    "description": "IBM DataStage (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "test_type": "K",
+    "description": "IBM Sterling Order Management System (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "test_type": "K",
+    "description": "Industrial Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "test_type": "K",
+    "description": "Informatica (Architecture) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "test_type": "K",
+    "description": "Informatica (Developer) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "test_type": "K",
+    "description": "Instrumentation Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "test_type": "K",
+    "description": "Interpersonal Communications Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "test_type": "K",
+    "description": "Interviewing and Hiring Concepts (U.S.) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "test_type": "K",
+    "description": "iOS Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "test_type": "K",
+    "description": "ITIL (IT Infrastructure Library) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "test_type": "K",
+    "description": "Java 2 Platform Enterprise Edition 1.4 Fundamental Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "description": "Java 8 (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "test_type": "K",
+    "description": "Java Design Patterns (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "test_type": "K",
+    "description": "Java Frameworks (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "test_type": "K",
+    "description": "Java Platform Enterprise Edition 7 (Java EE 7) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "test_type": "K",
+    "description": "Java Web Services (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "description": "JavaScript (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "test_type": "K",
+    "description": "Jenkins (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "test_type": "K",
+    "description": "Job Control Language (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "test_type": "K",
+    "description": "jQuery (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "test_type": "K",
+    "description": "Kubernetes (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "test_type": "K",
+    "description": "Linux Administration (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "test_type": "K",
+    "description": "Linux Operating System Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "test_type": "K",
+    "description": "Linux Programming (General) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "test_type": "K",
+    "description": "Load Runner (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "test_type": "B",
+    "description": "Management Scenarios Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "test_type": "B",
+    "description": "Managerial Scenarios Candidate Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "test_type": "B",
+    "description": "Managerial Scenarios Narrative Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "test_type": "B",
+    "description": "Managerial Scenarios Profile Report Test types: B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "test_type": "K",
+    "description": "Manual Testing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "test_type": "A/P",
+    "description": "Manufac. & Indust. - Mechanical & Vigilance 8.0 Test types: A (Ability & Aptitude), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_type": "P",
+    "description": "Manufac. & Indust. - Safety & Dependability 8.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "test_type": "P",
+    "description": "Manufacturing & Industrial - Essential Focus 8.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "test_type": "A/P",
+    "description": "Manufacturing & Industrial - Mechanical Focus 8.0 Test types: A (Ability & Aptitude), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "test_type": "A/P",
+    "description": "Manufacturing & Industrial - Vigilance Focus 8.0 Test types: A (Ability & Aptitude), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "test_type": "K",
+    "description": "Marketing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "test_type": "K",
+    "description": "Maven (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "test_type": "K",
+    "description": "Mechanical Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "test_type": "K",
+    "description": "Mechatronics Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "test_type": "K",
+    "description": "Medical Terminology (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "test_type": "K",
+    "description": "Metallurgical Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "test_type": "D",
+    "description": "MFS 360 Enterprise Leadership Report Test types: D (Development & 360). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "test_type": "D",
+    "description": "MFS 360 UCF Group Report Test types: D (Development & 360). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "test_type": "D",
+    "description": "MFS 360 UCF Performance Potential Dev Tips Report Test types: D (Development & 360). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "test_type": "D",
+    "description": "MFS 360 UCF Standard Report Test types: D (Development & 360). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "test_type": "K",
+    "description": "Micro Focus Unified Functional Testing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "test_type": "K",
+    "description": "Microservices (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "test_type": "K",
+    "description": "Microsoft Dynamics Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": "K/S",
+    "description": "Microsoft Excel 365 (New) Test types: K (Knowledge & Skills), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "test_type": "K/S",
+    "description": "Microsoft Excel 365 - Essentials (New) Test types: K (Knowledge & Skills), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "test_type": "K",
+    "description": "Microsoft Outlook 2013 (adaptive) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "test_type": "K/S",
+    "description": "Microsoft PowerPoint 365 - Essentials (New) Test types: K (Knowledge & Skills), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "test_type": "K",
+    "description": "Microsoft SQL Server 2014 Programming Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "test_type": "K",
+    "description": "Microsoft Windows Server 2012 Administration Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "test_type": "S/K",
+    "description": "Microsoft Word 365 (New) Test types: S (Simulations), K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_type": "K/S",
+    "description": "Microsoft Word 365 - Essentials (New) Test types: K (Knowledge & Skills), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "test_type": "K",
+    "description": "Mineral Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "test_type": "K",
+    "description": "Mining Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "test_type": "K",
+    "description": "Mobility (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "test_type": "K",
+    "description": "Molecular Biology (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "test_type": "K",
+    "description": "MongoDB (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "test_type": "P",
+    "description": "Motivation Questionnaire MQM5 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "test_type": "P",
+    "description": "MQ Candidate Motivation Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "test_type": "P",
+    "description": "MQ Employee Motivation Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "test_type": "P",
+    "description": "MQ Motivation Report Pack Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "test_type": "P",
+    "description": "MQ Profile Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "test_type": "K",
+    "description": "MS Access (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "test_type": "K",
+    "description": "MS Excel (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "test_type": "K",
+    "description": "MS Office Basic Computer Literacy (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "test_type": "S",
+    "description": "MS Office Basic Computer Literacy (Sim) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "test_type": "K",
+    "description": "MS PowerPoint (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "test_type": "K",
+    "description": "MS Word (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "test_type": "K",
+    "description": "MuleSoft Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "test_type": "A/K/S",
+    "description": "Multitasking Ability Test types: A (Ability & Aptitude), K (Knowledge & Skills), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "test_type": "K",
+    "description": "Networking and Implementation (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "test_type": "K",
+    "description": "Node.js (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "test_type": "K",
+    "description": "Nursing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire OPQ32r Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "test_type": "K",
+    "description": "Operations Management (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "test_type": "P",
+    "description": "OPQ Candidate Plus Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Candidate Report 2.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "test_type": "P",
+    "description": "OPQ Emotional Intelligence Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "P",
+    "description": "OPQ Leadership Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "test_type": "P",
+    "description": "OPQ Manager Plus Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Manager Plus Report 2.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "test_type": "P",
+    "description": "OPQ Maximising your Learning Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "test_type": "P",
+    "description": "OPQ MQ Sales Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "test_type": "P",
+    "description": "OPQ Premium Plus Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Premium Plus Report 2.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "test_type": "P",
+    "description": "OPQ Profile Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "test_type": "P",
+    "description": "OPQ Team Impact Group Development Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "test_type": "P",
+    "description": "OPQ Team Impact Individual Development Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "test_type": "P",
+    "description": "OPQ Team Impact Selection Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_type": "P",
+    "description": "OPQ Team Types & Leadership Styles Profile Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "test_type": "P",
+    "description": "OPQ Team Types and Leadership Styles Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "test_type": "P",
+    "description": "OPQ UCF Development Action Planner Report 1.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ UCF Development Action Planner Report 2.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "test_type": "P",
+    "description": "OPQ Universal Competency Report 1.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Universal Competency Report 2.0 Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "test_type": "P",
+    "description": "OPQ User and Managers Report Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "test_type": "P/S",
+    "description": "OPQ User Report Test types: P (Personality & Behavior), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "test_type": "K",
+    "description": "Oracle DBA (Advanced Level) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "test_type": "K",
+    "description": "Oracle DBA (Entry Level) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "test_type": "K",
+    "description": "Oracle PL/SQL (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "test_type": "K",
+    "description": "Oracle WebLogic Server (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "test_type": "K",
+    "description": "Organic Chemistry (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "test_type": "K",
+    "description": "Paint Technology (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "test_type": "K",
+    "description": "Pediatrics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "test_type": "K",
+    "description": "Pega Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "test_type": "K",
+    "description": "Perl (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "test_type": "K",
+    "description": "Petrochemical Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "test_type": "K",
+    "description": "Petroleum Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "test_type": "K",
+    "description": "Pharmaceutical Analysis (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "test_type": "K",
+    "description": "Pharmaceutical Chemistry (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "test_type": "K",
+    "description": "Pharmaceutical Science (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "test_type": "K",
+    "description": "Pharmaceutics (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "test_type": "K",
+    "description": "Pharmacology (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "test_type": "K",
+    "description": "PHP (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "test_type": "C/A/P",
+    "description": "PJM Development Report Test types: C (Competencies), A (Ability & Aptitude), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "test_type": "A/C/P",
+    "description": "PJM Selection Report Test types: A (Ability & Aptitude), C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "test_type": "K",
+    "description": "Polymer Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "test_type": "K",
+    "description": "Power Electronics and Drives (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "test_type": "K",
+    "description": "Power System Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "test_type": "K",
+    "description": "Prism (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "test_type": "K",
+    "description": "Production and Industrial Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "test_type": "K",
+    "description": "Production Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "test_type": "K",
+    "description": "Programming Concepts Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "test_type": "K",
+    "description": "Project Management (2013) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "test_type": "K",
+    "description": "Proofreading v1 Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "description": "Python (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "test_type": "K",
+    "description": "R Programming (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "test_type": "K",
+    "description": "ReactJS (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "test_type": "A",
+    "description": "Reading Comprehension - English v1 Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "test_type": "A",
+    "description": "Reading Comprehension - Spanish v1 Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "test_type": "A",
+    "description": "Reading Comprehension v2 Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "test_type": "C",
+    "description": "RemoteWorkQ Test types: C (Competencies). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "test_type": "C",
+    "description": "RemoteWorkQ Manager Report Test types: C (Competencies). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "test_type": "C",
+    "description": "RemoteWorkQ Participant Report Test types: C (Competencies). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "test_type": "K",
+    "description": "RESTful Web Services (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "test_type": "B/K/S/A",
+    "description": "Retail Sales and Service Simulation Test types: B (Biodata & Situational Judgement), K (Knowledge & Skills), S (Simulations), A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "test_type": "K",
+    "description": "Reviewing Forms - US (R1) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "test_type": "K",
+    "description": "Ruby (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "test_type": "K",
+    "description": "Ruby on Rails (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "test_type": "S/B",
+    "description": "Sales & Service Phone Simulation Test types: S (Simulations), B (Biodata & Situational Judgement). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "test_type": "B/P/S",
+    "description": "Sales & Service Phone Solution Test types: B (Biodata & Situational Judgement), P (Personality & Behavior), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "test_type": "P",
+    "description": "Sales Interview Guide Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "test_type": "P",
+    "description": "Sales Profiler Cards Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "test_type": "P",
+    "description": "Sales Transformation 1.0 - Individual Contributor Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_type": "P",
+    "description": "Sales Transformation 2.0 - Individual Contributor Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "test_type": "P",
+    "description": "Sales Transformation Report 1.0 - Sales Manager Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "test_type": "P",
+    "description": "Sales Transformation Report 2.0 - Sales Manager Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "test_type": "K",
+    "description": "Salesforce Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "test_type": "K",
+    "description": "SAP ABAP (Advanced Level) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "test_type": "K",
+    "description": "SAP ABAP (Intermediate Level) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "test_type": "K",
+    "description": "SAP Basis (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "test_type": "K",
+    "description": "SAP Business Objects WebI (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "test_type": "K",
+    "description": "SAP BW (Business Warehouse) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "test_type": "K",
+    "description": "SAP HCM (Human Capital Management) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "test_type": "K",
+    "description": "SAP Hybris (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "test_type": "K",
+    "description": "SAP Materials Management (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "test_type": "K",
+    "description": "SAP SD (Sales and Distribution) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "test_type": "K",
+    "description": "Search Engine Optimization (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "test_type": "K",
+    "description": "Selenium (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "test_type": "K",
+    "description": "Shell Scripting (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": "A/S",
+    "description": "SHL Verify Interactive - Inductive Reasoning Test types: A (Ability & Aptitude), S (Simulations). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_type": "A",
+    "description": "SHL Verify Interactive G+ Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_type": "A",
+    "description": "SHL Verify Interactive Numerical Calculation Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "SHL Verify Interactive – Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "test_type": "A/S",
+    "description": "SHL Verify Interactive – Deductive Reasoning Test types: A (Ability & Aptitude), S (Simulations). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": "A/S",
+    "description": "SHL Verify Interactive – Numerical Reasoning Test types: A (Ability & Aptitude), S (Simulations). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "test_type": "K",
+    "description": "Siebel Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "test_type": "P",
+    "description": "Smart Interview Live Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "test_type": "K",
+    "description": "Smart Interview Live Coding Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "test_type": "P",
+    "description": "Smart Interview On Demand Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "test_type": "K",
+    "description": "Social Media (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "test_type": "K",
+    "description": "Software Business Analysis Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "test_type": "K",
+    "description": "SonarQube (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "test_type": "K",
+    "description": "Spelling (U.S.) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "test_type": "A/K",
+    "description": "Split Screen Typing Test - Form 1 Test types: A (Ability & Aptitude), K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "test_type": "K",
+    "description": "Spring (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "description": "SQL (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "test_type": "K",
+    "description": "SQL Server (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "test_type": "K",
+    "description": "SQL Server Analysis Services (SSAS) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "test_type": "K",
+    "description": "SQL Server Integration Services (SSIS) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "test_type": "K",
+    "description": "SQL Server Reporting Services (SSRS) (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "test_type": "K",
+    "description": "Statistical Analysis System (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "test_type": "K",
+    "description": "Struts (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "test_type": "S",
+    "description": "SVAR - Spoken English (AUS) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "test_type": "S",
+    "description": "SVAR - Spoken English (Indian Accent) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "test_type": "S",
+    "description": "SVAR - Spoken English (U.K.) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken English (US) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_type": "S",
+    "description": "SVAR - Spoken English (US) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "test_type": "S",
+    "description": "SVAR - Spoken French (Canadian) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "test_type": "S",
+    "description": "SVAR - Spoken French (European) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "test_type": "S",
+    "description": "SVAR - Spoken Spanish (Castilian) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "test_type": "S",
+    "description": "SVAR - Spoken Spanish (North American) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "test_type": "K",
+    "description": "Swing (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "test_type": "K",
+    "description": "Tableau (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "test_type": "K",
+    "description": "Telecommunications Engineering (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "test_type": "K",
+    "description": "Teradata Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "test_type": "K",
+    "description": "Time Management (U.S.) Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "test_type": "K",
+    "description": "Training Development Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "test_type": "S",
+    "description": "Typing (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "test_type": "K",
+    "description": "UiPath RPA Development (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "test_type": "C/P",
+    "description": "Universal Competency Framework Interview Guide Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "test_type": "C/P",
+    "description": "Universal Competency Framework Job profiling guide Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "test_type": "C/P",
+    "description": "Universal Competency Framework Profiler Cards (44) Test types: C (Competencies), P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "test_type": "K",
+    "description": "UNIX (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "test_type": "K",
+    "description": "VB.NET (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Verify - Deductive Reasoning Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "test_type": "A",
+    "description": "Verify - Following Instructions Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "test_type": "A",
+    "description": "Verify - G+ Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "test_type": "A",
+    "description": "Verify - General Ability Screen Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "test_type": "A",
+    "description": "Verify - Inductive Reasoning (2014) Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "A",
+    "description": "Verify - Numerical Ability Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "test_type": "A",
+    "description": "Verify - Technical Checking - Next Generation Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_type": "A",
+    "description": "Verify - Verbal Ability - Next Generation Test types: A (Ability & Aptitude). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "test_type": "A",
+    "description": "Verify - Working with Information Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "test_type": "A",
+    "description": "Verify G+ - Ability Test Report Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "test_type": "A",
+    "description": "Verify G+ - Candidate Report Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "test_type": "A",
+    "description": "Verify Interactive Ability Report Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "test_type": "A",
+    "description": "Verify Interactive G+ Candidate Report Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "test_type": "A",
+    "description": "Verify Interactive G+ Report Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_type": "A",
+    "description": "Verify Interactive Process Monitoring Test types: A (Ability & Aptitude). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "test_type": "P",
+    "description": "Virtual Assessment and Development Centers Test types: P (Personality & Behavior). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "test_type": "K",
+    "description": "Visual Basic for Applications (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "test_type": "K",
+    "description": "Visual Comparison - UK Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "test_type": "K",
+    "description": "Visual Comparison - US Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "test_type": "K",
+    "description": "VLSI and Embedded Systems (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "test_type": "K",
+    "description": "What Is The Value - US Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "test_type": "K",
+    "description": "Workplace Administration Skills (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_type": "K",
+    "description": "Workplace Health and Safety (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "test_type": "S",
+    "description": "WriteX - Email Writing (Customer Service) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "test_type": "S",
+    "description": "WriteX - Email Writing (Managerial) (New) Test types: S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "test_type": "B/S",
+    "description": "WriteX - Email Writing (Sales) (New) Test types: B (Biodata & Situational Judgement), S (Simulations). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "test_type": "K",
+    "description": "Written English v1 Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "test_type": "K",
+    "description": "Written Spanish Test types: K (Knowledge & Skills). Remote testing: Yes. Adaptive/IRT: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "test_type": "K",
+    "description": "Zabbix (New) Test types: K (Knowledge & Skills). Remote testing: Yes.",
+    "remote_testing": "Yes",
+    "adaptive_irt": ""
+  }
+]
